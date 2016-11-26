@@ -6,6 +6,7 @@ maintainer_email 'support@engineyard.com'
 
 depends "chef_gem_fix"
 depends "docker_custom"
+depends "haproxy"
 
 issues_url 'https://github.com/engineyard/ey-docker-recipes/issues'
 source_url 'https://github.com/engineyard/ey-docker-recipes'

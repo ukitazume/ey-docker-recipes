@@ -1,5 +1,6 @@
 include_recipe "chef_gem_fix"
 include_recipe "docker_custom"
+include_recipe "haproxy"
 
 #include_recipe "docker_memcached"
 #include_recipe "docker_youtrack"
